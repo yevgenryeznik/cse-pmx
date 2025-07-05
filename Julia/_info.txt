@@ -1,0 +1,10 @@
+The folder contains Julia code to perform simulations.
+
+files:
+- `01-simulate-data.jl` -- data simulation functions
+- `02-randomization.jl` -- functions to simulate randomzation procedures
+- `03-t-test.jl`        -- functions to perform population- and randomization-based t tests.
+- `04-ancova.jl`        -- functions to perform population- and randomization-based ANCOVA.
+- `05-mmrm.jl`          -- functions to perform population- and randomization-based MMRM.
+- `06-nlmem.jl`         -- functions to perform population- and randomization-based NLMEM.
+- `90-simulation.jl`    -- a main script, where simulations are perfromed.
