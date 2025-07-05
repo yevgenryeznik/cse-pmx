@@ -1,0 +1,4 @@
+Contains R script to visulize simulation results.
+
+It is assumed that a folder `sim-output` is located in the same folder.
+Currently, it is in `Julia` folder -- paste it here before running the script. 
