@@ -1,0 +1,9 @@
+The folder contains files with fitted NLMEM.
+The `*.jld2` file formal is used.
+
+File names indicates which scenario is stored, e.g.,
+- fitALT1_notrend_RND.jld2 -- ALT1 (treatment effect DE=0.5); notrend (no time trend added); RND (random allocation rule randomization);
+- fitNULL_trend_TBD.jld2   -- NULL (treatment effect DE=0.0); trend   (time trend added);    TBD (truncated binomial design randomization);
+- etc.
+
+
